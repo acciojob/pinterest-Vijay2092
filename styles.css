@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+.image{
+	display:inline;
+}
+img{
+	width:340px;
+	height:190px;
+	object-fit:cover;
+}
+
+.text{
+	display:inline;
+	position:absolute;
+
+}
+#ex{
+   background-color: #f44336;
+	color:white;
+}
+.text>h2{
+   display:flex;
+   text-align:center;
+}
